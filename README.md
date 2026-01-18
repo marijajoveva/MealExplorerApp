@@ -1,16 +1,22 @@
-# lab2
+# MealExplorer
 
-A new Flutter project.
+Flutter mobile application for browsing and exploring recipes using TheMealDB API.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Browse meal categories with images and short descriptions
+- Search categories by name
+- View meals in each category in a grid layout
+- Search meals within a selected category
+- Detailed recipe view including ingredients, instructions, and YouTube video link
+- Random "Recipe of the Day" functionality
+- Add meals to Favorites: mark recipes as favorites directly from the list and view them in a dedicated Favorites screen
 
-A few resources to get you started if this is your first Flutter project:
+## Technologies Used
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Flutter & Dart
+- TheMealDB API
+- HTTP requests
+- JSON parsing
+- GridView & ListView UI components
+- Local state management for favorites

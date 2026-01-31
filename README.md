@@ -16,7 +16,5 @@ Flutter mobile application for browsing and exploring recipes using TheMealDB AP
 
 - Flutter & Dart
 - TheMealDB API
-- HTTP requests
-- JSON parsing
 - GridView & ListView UI components
 - Local state management for favorites
